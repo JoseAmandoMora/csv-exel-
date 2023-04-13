@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\Gestion-de-Productos-1.2-main\gestion de productos beta 1.2\borrador1.2\borrador\bin\Debug\borrador.exe.config
+C:\Users\USUARIO\Desktop\Gestion-de-Productos-1.2-main\gestion de productos beta 1.2\borrador1.2\borrador\bin\Debug\borrador.exe
+C:\Users\USUARIO\Desktop\Gestion-de-Productos-1.2-main\gestion de productos beta 1.2\borrador1.2\borrador\bin\Debug\borrador.pdb
+C:\Users\USUARIO\Desktop\Gestion-de-Productos-1.2-main\gestion de productos beta 1.2\borrador1.2\borrador\obj\Debug\borrador.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Gestion-de-Productos-1.2-main\gestion de productos beta 1.2\borrador1.2\borrador\obj\Debug\borrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Gestion-de-Productos-1.2-main\gestion de productos beta 1.2\borrador1.2\borrador\obj\Debug\borrador.Form2.resources
+C:\Users\USUARIO\Desktop\Gestion-de-Productos-1.2-main\gestion de productos beta 1.2\borrador1.2\borrador\obj\Debug\borrador.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Gestion-de-Productos-1.2-main\gestion de productos beta 1.2\borrador1.2\borrador\obj\Debug\borrador.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Gestion-de-Productos-1.2-main\gestion de productos beta 1.2\borrador1.2\borrador\obj\Debug\borrador.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Gestion-de-Productos-1.2-main\gestion de productos beta 1.2\borrador1.2\borrador\obj\Debug\borrador.exe
+C:\Users\USUARIO\Desktop\Gestion-de-Productos-1.2-main\gestion de productos beta 1.2\borrador1.2\borrador\obj\Debug\borrador.pdb
+C:\Users\USUARIO\Desktop\Gestion-de-Productos-1.2-main\gestion de productos beta 1.2\borrador1.2\borrador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Gestion-de-Productos-1.2-main\gestion de productos beta 1.2\borrador1.2\borrador\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\USUARIO\Desktop\Gestion-de-Productos-1.2-main\gestion de productos beta 1.2\borrador1.2\borrador\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Gestion-de-Productos-1.2-main\gestion de productos beta 1.2\borrador1.2\borrador\obj\Debug\borrador.csproj.CopyComplete
